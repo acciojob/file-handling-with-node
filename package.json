@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/ile-handling-with-node.git"
+    "url": "git+https://github.com/acciojob/file-handling-with-node.js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/ile-handling-with-node/issues"
+    "url": "https://github.com/acciojob/file-handling-with-node/issues"
   },
-  "homepage": "https://github.com/acciojob/ile-handling-with-node#readme",
+  "homepage": "https://github.com/acciojob/file-handling-with-node#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
